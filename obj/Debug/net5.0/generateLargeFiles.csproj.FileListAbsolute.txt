@@ -1,0 +1,16 @@
+C:\Dev\generateLargeFiles\bin\Debug\net5.0\generateLargeFiles.exe
+C:\Dev\generateLargeFiles\bin\Debug\net5.0\generateLargeFiles.deps.json
+C:\Dev\generateLargeFiles\bin\Debug\net5.0\generateLargeFiles.runtimeconfig.json
+C:\Dev\generateLargeFiles\bin\Debug\net5.0\generateLargeFiles.runtimeconfig.dev.json
+C:\Dev\generateLargeFiles\bin\Debug\net5.0\generateLargeFiles.dll
+C:\Dev\generateLargeFiles\bin\Debug\net5.0\ref\generateLargeFiles.dll
+C:\Dev\generateLargeFiles\bin\Debug\net5.0\generateLargeFiles.pdb
+C:\Dev\generateLargeFiles\obj\Debug\net5.0\generateLargeFiles.csproj.AssemblyReference.cache
+C:\Dev\generateLargeFiles\obj\Debug\net5.0\generateLargeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\generateLargeFiles\obj\Debug\net5.0\generateLargeFiles.AssemblyInfoInputs.cache
+C:\Dev\generateLargeFiles\obj\Debug\net5.0\generateLargeFiles.AssemblyInfo.cs
+C:\Dev\generateLargeFiles\obj\Debug\net5.0\generateLargeFiles.csproj.CoreCompileInputs.cache
+C:\Dev\generateLargeFiles\obj\Debug\net5.0\generateLargeFiles.dll
+C:\Dev\generateLargeFiles\obj\Debug\net5.0\ref\generateLargeFiles.dll
+C:\Dev\generateLargeFiles\obj\Debug\net5.0\generateLargeFiles.pdb
+C:\Dev\generateLargeFiles\obj\Debug\net5.0\generateLargeFiles.genruntimeconfig.cache

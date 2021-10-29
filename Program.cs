@@ -6,8 +6,8 @@ namespace generateLargeFiles
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to File Generator\n");
-            Console.Write("File Name:\t");
+            //Console.WriteLine("Welcome to File Generator\n");
+            //Console.Write("File Name:\t");
             try 
             {
                 string name = Console.ReadLine();
@@ -16,6 +16,7 @@ namespace generateLargeFiles
                 int count = Console.Read();
 
                 GenerateTxtFile gen = new GenerateTxtFile();
+                gen.readFromFile(count);
                 gen.writeToFile(name, count);
             } 
             catch (Exception e) 
